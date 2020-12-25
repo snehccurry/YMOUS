@@ -1,9 +1,9 @@
 
     Command        Description
     -------        -----------
-    clear          Clear terminal window.
-    disconnect     Disconnect from target device.
-    connect        Connect to target device.
-    exit           Exit Ghost Framework.
-    help           Show available commands.
-    update         Update Ghost Framework.
+    clear          Cleans your terminal.
+    disconnect     Disconnects from your victim's phone.
+    connect        Connects to your victim's phone.
+    exit           Exits Ymous.
+    help           Shows available commands.
+    update         Updates ymous(not there right now!).

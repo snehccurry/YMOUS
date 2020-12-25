@@ -1,2 +1,5 @@
 # YMOUS
-YMOUS is my name and my tool
+YMOUS is my name and my tool's name too! hope u like it! 
+IF U LIKE THE TOOL AND MY IDEAS THEN A SUB TO MY CHANNEL WOULD BE INCREDIBLE.
+THANKS A LOT FOR VIEWING MY PROFILE!
+
